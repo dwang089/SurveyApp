@@ -1,1 +1,1 @@
-# Survey app wih react and node
+# Survey app with the MERN stack
